@@ -41,10 +41,7 @@ Overlay Visualization
 
 
 ## 🖼️ Sample Results
-| Before | After |
-|------|------|
-| ![Before](results/lung/before.png) | ![After](results/lung/after.png) |
-
+<img width="837" height="716" alt="image" src="https://github.com/user-attachments/assets/c1a6f623-6204-41cb-bbaf-fd503b772773" />
 
 
 ## 📁 Outputs
