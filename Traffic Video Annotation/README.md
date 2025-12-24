@@ -8,7 +8,7 @@ A publicly available **YouTube traffic surveillance video** is used as input, an
 ## 🎥 Input Video
 - **Source:** Public YouTube traffic camera
 - **YouTube Link:**  
-https://www.youtube.com/watch?v=7LrWGGJFEJo
+https://www.youtube.com/watch?v=CftLBPI1Ga4
 
 > The video was downloaded programmatically using `yt-dlp`.
 
@@ -46,12 +46,12 @@ The output video contains:
 - Frame-by-frame detections
 
 📥 **Annotated Output Video:**  
-[Download traffic_annotated.mp4](/Traffic%20Video%20Annotation/traffic_annotated.mp4)
-
+https://github.com/PromiMojumder38/computer-vision-projects/blob/main/Traffic%20Video%20Annotation/traffic_annotated.mp4
 
 ## 🖼️ Sample Output Frame
 ![Traffic Detection](results/traffic/sample_frame.png)
 
+---
 
 ## 🚀 How to Run
 1. Open the notebook in **Google Colab**
