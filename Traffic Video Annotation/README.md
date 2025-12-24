@@ -45,7 +45,7 @@ The output video contains:
 - Frame-by-frame detections
 
 📥 **Annotated Output Video:**  
-https://github.com/PromiMojumder38/computer-vision-projects/blob/main/Traffic%20Video%20Annotation/traffic_annotated.gif
+![Traffic Detection Preview](https://github.com/PromiMojumder38/computer-vision-projects/blob/main/Traffic%20Video%20Annotation/traffic_annotated.gif)
 
 
 ## 🚀 How to Run
