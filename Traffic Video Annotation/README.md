@@ -38,7 +38,6 @@ Annotated Output Video
 
 (Classes depend on COCO dataset labels.)
 
-
 ## 📁 Output
 The output video contains:
 - Bounding boxes
@@ -46,12 +45,8 @@ The output video contains:
 - Frame-by-frame detections
 
 📥 **Annotated Output Video:**  
-https://github.com/PromiMojumder38/computer-vision-projects/blob/main/Traffic%20Video%20Annotation/traffic_annotated.mp4
+https://github.com/PromiMojumder38/computer-vision-projects/blob/main/Traffic%20Video%20Annotation/traffic_annotated.gif
 
-## 🖼️ Sample Output Frame
-![Traffic Detection](results/traffic/sample_frame.png)
-
----
 
 ## 🚀 How to Run
 1. Open the notebook in **Google Colab**
@@ -71,18 +66,4 @@ https://github.com/PromiMojumder38/computer-vision-projects/blob/main/Traffic%20
 - Google Colab
 
 
-## 📌 Notes
-- All datasets and videos used are **publicly available**
-- No private or sensitive data is used
-- Projects are intended for **educational and research purposes**
-
-
-
-## ✅ Why This Repository Matters
-This repository demonstrates:
-- Practical application of **foundation vision models**
-- Experience with **medical image segmentation**
-- Video-based **real-time object detection**
-- Strong emphasis on **documentation and reproducibility**
-- Readiness for **research assistant and CV-focused roles**
 
