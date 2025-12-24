@@ -1,5 +1,5 @@
 
-# 🚗 Project 2: Traffic Video Object Detection using YOLOv8
+# 🚗 Traffic Video Object Detection using YOLOv8
 
 ## 📌 Overview
 This project demonstrates **real-world traffic video analysis** using **YOLOv8** for object detection.  
@@ -19,16 +19,7 @@ https://www.youtube.com/watch?v=CftLBPI1Ga4
 - **Reason for choice:** Fast inference suitable for video processing
 
 ## ⚙️ Processing Pipeline
-YouTube Video
-↓
-Video Download (yt-dlp)
-↓
-Frame-by-frame Processing
-↓
-YOLOv8 Object Detection
-↓
-Annotated Output Video
-
+YouTube Video -> Video Download (yt-dlp) -> Frame-by-frame Processing -> YOLOv8 Object Detection -> Annotated Output Video
 
 ## 📊 Detected Classes
 - Cars
